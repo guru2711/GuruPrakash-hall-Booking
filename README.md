@@ -2,7 +2,7 @@
 
 ******Documentation******
 
-// Creating a room using endpoints
+// Creating a room using endpoints,
 localhost:1011/createRoom
 Sample data for Creating a room =>{
      "no_of_seats": 27,
@@ -11,7 +11,7 @@ Sample data for Creating a room =>{
 }
 
 
-//Booking a room using endpoints
+//Booking a room using endpoints,
 localhost:1011/Booking
 
 Sample data for Booking => {
@@ -22,8 +22,8 @@ Sample data for Booking => {
 
 }
 
-//getAllRoom a room using endpoints
+//getAllRoom a room using endpoints,
 localhost:1011/getAllRooms
 
-//getAllcustomer a room using endpoints
+//getAllcustomer a room using endpoints,
 localhost:1011/getAllcustomer
